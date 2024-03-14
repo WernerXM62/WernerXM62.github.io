@@ -477,6 +477,7 @@ p {
 /************************************************************************************************/
 /* contact Section */
 #contact .contact {
+	background-color: rgba(150, 178, 255, 0.329);
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
